@@ -5,7 +5,13 @@
 
 O objetivo desse exercício é fundamentar através da prática os conceitos básicos de vetor(Array) usando Java.
 
+<br>
+<br>
+
 # Tecnologias
+
+<br>
+<br>
 
 As tecnológias utilizadas foram
 
