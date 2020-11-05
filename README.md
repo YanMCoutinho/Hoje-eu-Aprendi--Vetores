@@ -1,6 +1,13 @@
 # Hoje eu aprendi - Vetores
 <p align="center">Meu primeiro exercício com vetores.</p>
 
+
+<br>
+<br>
+
+<br>
+<br>
+
 # Objetivo
 
 O objetivo desse exercício é fundamentar através da prática os conceitos básicos de vetor(Array) usando Java.
